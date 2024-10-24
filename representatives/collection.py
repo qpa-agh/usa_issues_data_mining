@@ -5,6 +5,9 @@ from representatives.lamalfa import *
 from representatives.radewagen import *
 from representatives.boebert import *
 from representatives.larson import *
+from representatives.soto import *
+from representatives.gaetz import *
+from representatives.bishop import *
 
 extraction_functions = {
     'https://sewell.house.gov/': 
@@ -46,3 +49,19 @@ extraction_functions['https://larson.house.gov/'] = {
             'extract_article_links': larson_extract_article_links,
             'extract_article': larson_extract_article
         }
+extraction_functions['https://soto.house.gov'] = {
+            'extract_issues': soto_extract_issues,
+            'extract_article_links': soto_extract_article_links,
+            'extract_article': soto_extract_article
+        }
+extraction_functions['https://gaetz.house.gov'] = {
+            'extract_issues': gaetz_extract_issues,
+            'extract_article_links': gaetz_extract_article_links,
+            'extract_article': gaetz_extract_article
+        }
+extraction_functions['https://bishop.house.gov/'] = {
+            'extract_issues': bishop_extract_issues,
+            'extract_article_links': bishop_extract_article_links,
+            'extract_article': bishop_extract_article
+        }
+

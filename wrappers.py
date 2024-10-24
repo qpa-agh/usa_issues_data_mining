@@ -1,4 +1,4 @@
-from utils.scraping_utils import get_html
+from utils.scraping_utils import get_html, parrarelize_threads
 
 def extract_issues_wrapper(rep_link, extract_issues):
     issues_link = rep_link + 'issues'
@@ -11,17 +11,19 @@ def extract_issues_wrapper(rep_link, extract_issues):
 
 def extract_article_links_wrapper(base_link, issues, extract_article_links):
     article_links = []
-    for issue in issues:
-        issue_article_links = extract_article_links(issue, base_link)
+    additional_information = [[issue['name']] for issue in issues]
+    jobs = [[issue, base_link] for issue in issues]
+    for id, issue_article_links in parrarelize_threads(extract_article_links, jobs):
         if issue_article_links is not None:
-            article_links.extend([{'issue': issue['name'], 'link': article_link} for article_link in issue_article_links])
+            article_links.extend([{'issue': additional_information[id][0], 'link': article_link} for article_link in issue_article_links])
     return article_links
 
 def extract_articles_wrapper(article_links, extract_articles):
     articles = []
-    for article_link in article_links:
-        print(article_link)
-        article = extract_articles(article_link)
+    jobs = [[article_link] for article_link in article_links]
+    additional_information = [[article_link] for article_link in article_links]
+    for id, article in parrarelize_threads(extract_articles, jobs):
+        print(additional_information[id][0])
         if article is not None:
             articles.append(article)
     return articles
