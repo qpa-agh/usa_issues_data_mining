@@ -3,6 +3,8 @@ from representatives.pocan import *
 from representatives.carl import *
 from representatives.lamalfa import *
 from representatives.radewagen import *
+from representatives.boebert import *
+from representatives.larson import *
 
 extraction_functions = {
     'https://sewell.house.gov/': 
@@ -34,4 +36,13 @@ extraction_functions['https://lamalfa.house.gov'] = {
             'extract_article_links': lamalfa_extract_article_links,
             'extract_article': lamalfa_extract_article
         }
-
+extraction_functions['https://boebert.house.gov'] = {
+            'extract_issues': boebert_extract_issues,
+            'extract_article_links': boebert_extract_article_links,
+            'extract_article': boebert_extract_article
+        }
+extraction_functions['https://larson.house.gov/'] = {
+            'extract_issues': larson_extract_issues,
+            'extract_article_links': larson_extract_article_links,
+            'extract_article': larson_extract_article
+        }
