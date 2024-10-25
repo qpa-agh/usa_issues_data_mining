@@ -8,6 +8,10 @@ from representatives.larson import *
 from representatives.soto import *
 from representatives.gaetz import *
 from representatives.bishop import *
+from representatives.moylan import *
+from representatives.bost import *
+from representatives.mrvan import *
+from representatives.millermeeks import *
 
 extraction_functions = {
     'https://sewell.house.gov/': 
@@ -64,4 +68,25 @@ extraction_functions['https://bishop.house.gov/'] = {
             'extract_article_links': bishop_extract_article_links,
             'extract_article': bishop_extract_article
         }
+# extraction_functions['https://moylan.house.gov'] = { no articles
+#             'extract_issues': moylan_extract_issues,
+#             'extract_article_links': moylan_extract_article_links,
+#             'extract_article': moylan_extract_article
+#         }
 
+extraction_functions['https://bost.house.gov/'] = {
+            'extract_issues': bost_extract_issues,
+            'extract_article_links': bost_extract_article_links,
+            'extract_article': bost_extract_article
+        }
+
+extraction_functions['https://mrvan.house.gov'] = {
+            'extract_issues': mrvan_extract_issues,
+            'extract_article_links': mrvan_extract_article_links,
+            'extract_article': mrvan_extract_article
+        }
+extraction_functions['https://millermeeks.house.gov/'] = {
+            'extract_issues': millermeeks_extract_issues,
+            'extract_article_links': millermeeks_extract_article_links,
+            'extract_article': millermeeks_extract_article
+        }

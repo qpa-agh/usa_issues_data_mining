@@ -16,7 +16,11 @@ if __name__ == "__main__":
                  'https://boebert.house.gov', 
                  'https://larson.house.gov/', 
                  'https://soto.house.gov', 
-                 'https://gaetz.house.gov']
+                 'https://gaetz.house.gov',
+                 'https://bishop.house.gov/',
+                 'https://bost.house.gov/',
+                 'https://mrvan.house.gov'
+                 ]
     for name, state, party, committee, link in zip(rep_df['name'], rep_df['state'], rep_df['party'], rep_df['committee'], rep_df['page_link']):
         if link in extraction_functions and not (link in skip_list):
             page_functions = extraction_functions[link]
