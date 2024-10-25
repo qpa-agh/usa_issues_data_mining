@@ -1,0 +1,439 @@
+,Unnamed: 0,state,district,name,party,committee,page_link
+0,0,Alabama,1st,"Carl, Jerry",R,Appropriations|Natural Resources,https://carl.house.gov
+1,1,Alabama,2nd,"Moore, Barry",R,Agriculture|Judiciary,https://barrymoore.house.gov
+2,2,Alabama,3rd,"Rogers, Mike",R,Armed Services,https://mikerogers.house.gov/
+3,3,Alabama,4th,"Aderholt, Robert",R,Appropriations,https://aderholt.house.gov/
+4,4,Alabama,5th,"Strong, Dale",R,"Armed Services|Homeland Security|Science, Space, and Technology",https://strong.house.gov
+5,5,Alabama,6th,"Palmer, Gary",R,Oversight and Accountability|Energy and Commerce,https://palmer.house.gov/
+6,6,Alabama,7th,"Sewell, Terri",D,Armed Services|House Administration|Joint Committee of Congress on the Library|Ways and Means,https://sewell.house.gov/
+7,7,Alaska,At Large,"Peltola, Mary",D,Natural Resources|Transportation and Infrastructure,https://peltola.house.gov
+8,8,American Samoa,Delegate,"Radewagen, Aumua Amata",R,Foreign Affairs|Natural Resources|Veterans' Affairs,https://radewagen.house.gov
+9,9,Arizona,1st,"Schweikert, David",R,Ways and Means,https://schweikert.house.gov/
+10,10,Arizona,2nd,"Crane, Elijah",R,Homeland Security|Small Business|Veterans' Affairs,https://crane.house.gov
+11,11,Arizona,3rd,"Gallego, Ruben",D,Armed Services|Natural Resources,https://rubengallego.house.gov/
+12,12,Arizona,4th,"Stanton, Greg",D,Foreign Affairs|Transportation and Infrastructure,https://stanton.house.gov/
+13,13,Arizona,5th,"Biggs, Andy",R,Oversight and Accountability|Judiciary,https://biggs.house.gov
+14,14,Arizona,6th,"Ciscomani, Juan",R,Appropriations|Veterans' Affairs,https://ciscomani.house.gov
+15,15,Arizona,7th,"Grijalva, Raul",D,Education and the Workforce|Natural Resources,https://grijalva.house.gov/
+16,16,Arizona,8th,"Lesko, Debbie",R,Energy and Commerce|Select Subcommittee on the Coronavirus Pandemic,https://lesko.house.gov
+17,17,Arizona,9th,"Gosar, Paul",R,Oversight and Accountability|Natural Resources,https://gosar.house.gov/
+18,18,Arkansas,1st,"Crawford, Eric",R,"Agriculture|Intelligence|Transportation and Infrastructure|Science, Space, and Technology",https://crawford.house.gov/
+19,19,Arkansas,2nd,"Hill, J.",R,Financial Services|Foreign Affairs|Intelligence,https://hill.house.gov/
+20,20,Arkansas,3rd,"Womack, Steve",R,Appropriations,https://womack.house.gov/
+21,21,Arkansas,4th,"Westerman, Bruce",R,Natural Resources|Transportation and Infrastructure,https://westerman.house.gov/
+22,22,California,1st,"LaMalfa, Doug",R,Agriculture|Natural Resources|Transportation and Infrastructure,https://lamalfa.house.gov
+23,23,California,2nd,"Huffman, Jared",D,Natural Resources|Transportation and Infrastructure,https://huffman.house.gov
+24,24,California,3rd,"Kiley, Kevin",R,Education and the Workforce|Judiciary|Transportation and Infrastructure,https://kiley.house.gov
+25,25,California,4th,"Thompson, Mike",D,Ways and Means,https://mikethompson.house.gov/
+26,26,California,5th,"McClintock, Tom",R,Budget|Natural Resources|Judiciary,https://mcclintock.house.gov/
+27,27,California,6th,"Bera, Ami",D,Foreign Affairs|Intelligence|Select Subcommittee on the Coronavirus Pandemic,https://bera.house.gov
+28,28,California,7th,"Matsui, Doris",D,Energy and Commerce,https://matsui.house.gov
+29,29,California,8th,"Garamendi, John",D,Armed Services|Select Subcommittee on the Weaponization of the Fed Govt|Transportation and Infrastructure,https://garamendi.house.gov/
+30,30,California,9th,"Harder, Josh",D,Appropriations,https://harder.house.gov/
+31,31,California,10th,"DeSaulnier, Mark",D,Education and the Workforce|Transportation and Infrastructure|Ethics,https://desaulnier.house.gov/
+32,32,California,11th,"Pelosi, Nancy",D,,https://pelosi.house.gov/
+33,33,California,12th,"Lee, Barbara",D,Appropriations|Budget,https://lee.house.gov/
+34,34,California,13th,"Duarte, John",R,Agriculture|Natural Resources|Transportation and Infrastructure,https://duarte.house.gov
+35,35,California,14th,"Swalwell, Eric",D,Homeland Security|Judiciary,https://swalwell.house.gov
+36,36,California,15th,"Mullin, Kevin",D,"Natural Resources|Science, Space, and Technology",https://kevinmullin.house.gov
+37,37,California,16th,"Eshoo, Anna",D,Energy and Commerce,https://eshoo.house.gov/
+38,38,California,17th,"Khanna, Ro",D,Armed Services|Oversight and Accountability|Select Comm on the Strategic Competition US and China,https://khanna.house.gov
+39,39,California,18th,"Lofgren, Zoe",D,"Judiciary|Science, Space, and Technology",https://lofgren.house.gov/
+40,40,California,19th,"Panetta, Jimmy",D,Armed Services|Budget|Ways and Means,https://panetta.house.gov
+41,41,California,20th,"Fong, Vince",R,"Transportation and Infrastructure|Science, Space, and Technology",https://fong.house.gov/
+42,42,California,21st,"Costa, Jim",D,Agriculture|Foreign Affairs,https://costa.house.gov/
+43,43,California,22nd,"Valadao, David",R,Appropriations|Budget|Joint Committee of Congress on the Library,https://valadao.house.gov
+44,44,California,23rd,"Obernolte, Jay",R,"Energy and Commerce|Science, Space, and Technology",https://obernolte.house.gov
+45,45,California,24th,"Carbajal, Salud",D,Agriculture|Armed Services|Transportation and Infrastructure,https://carbajal.house.gov
+46,46,California,25th,"Ruiz, Raul",D,Energy and Commerce|Select Subcommittee on the Coronavirus Pandemic,https://ruiz.house.gov
+47,47,California,26th,"Brownley, Julia",D,Transportation and Infrastructure|Veterans' Affairs,https://juliabrownley.house.gov
+48,48,California,27th,"Garcia, Mike",R,"Appropriations|Intelligence|Science, Space, and Technology",https://mikegarcia.house.gov/
+49,49,California,28th,"Chu, Judy",D,Small Business|Ways and Means,https://chu.house.gov/
+50,50,California,29th,"Cardenas, Tony",D,Energy and Commerce,https://cardenas.house.gov
+51,51,California,30th,"Schiff, Adam",D,Judiciary,https://schiff.house.gov/
+52,52,California,31st,"Napolitano, Grace",D,Natural Resources|Transportation and Infrastructure,https://napolitano.house.gov/
+53,53,California,32nd,"Sherman, Brad",D,Financial Services|Foreign Affairs,https://sherman.house.gov
+54,54,California,33rd,"Aguilar, Pete",D,Appropriations,https://aguilar.house.gov/
+55,55,California,34th,"Gomez, Jimmy",D,Intelligence|Ways and Means,https://gomez.house.gov/
+56,56,California,35th,"Torres, Norma",D,Appropriations|House Administration,https://torres.house.gov/
+57,57,California,36th,"Lieu, Ted",D,Foreign Affairs|Judiciary,https://lieu.house.gov/
+58,58,California,37th,"Kamlager-Dove, Sydney",D,Foreign Affairs|Natural Resources,https://kamlager-dove.house.gov
+59,59,California,38th,"Sanchez, Linda",D,Select Subcommittee on the Weaponization of the Fed Govt|Ways and Means,https://lindasanchez.house.gov/
+60,60,California,39th,"Takano, Mark",D,Education and the Workforce|Veterans' Affairs,https://takano.house.gov
+61,61,California,40th,"Kim, Young",R,Financial Services|Foreign Affairs,https://youngkim.house.gov
+62,62,California,41st,"Calvert, Ken",R,Appropriations,https://calvert.house.gov/
+63,63,California,42nd,"Garcia, Robert",D,Oversight and Accountability|Homeland Security|Select Subcommittee on the Coronavirus Pandemic,https://robertgarcia.house.gov
+64,64,California,43rd,"Waters, Maxine",D,Financial Services,https://waters.house.gov
+65,65,California,44th,"Barragan, Nanette",D,Energy and Commerce,https://barragan.house.gov
+66,66,California,45th,"Steel, Michelle",R,Education and the Workforce|Ways and Means|Select Comm on the Strategic Competition US and China,https://steel.house.gov
+67,67,California,46th,"Correa, J.",D,Homeland Security|Judiciary,https://correa.house.gov
+68,68,California,47th,"Porter, Katie",D,Oversight and Accountability|Natural Resources,https://porter.house.gov/
+69,69,California,48th,"Issa, Darrell",R,"Foreign Affairs|Select Subcommittee on the Weaponization of the Fed Govt|Judiciary|Science, Space, and Technology",https://issa.house.gov
+70,70,California,49th,"Levin, Mike",D,Natural Resources|Veterans' Affairs,https://levin.house.gov/
+71,71,California,50th,"Peters, Scott",D,Budget|Energy and Commerce,https://scottpeters.house.gov
+72,72,California,51st,"Jacobs, Sara",D,Armed Services|Foreign Affairs,https://sarajacobs.house.gov
+73,73,California,52nd,"Vargas, Juan",D,Financial Services,https://vargas.house.gov
+74,74,Colorado,1st,"DeGette, Diana",D,Energy and Commerce,https://degette.house.gov
+75,75,Colorado,2nd,"Neguse, Joe",D,Natural Resources|Judiciary|Rules,https://neguse.house.gov/
+76,76,Colorado,3rd,"Boebert, Lauren",R,Oversight and Accountability|Natural Resources,https://boebert.house.gov
+77,77,Colorado,4th,"Lopez, Greg",R,"Budget|Science, Space, and Technology",https://lopez.house.gov/
+78,78,Colorado,5th,"Lamborn, Doug",R,Armed Services|Natural Resources,https://lamborn.house.gov/
+79,79,Colorado,6th,"Crow, Jason",D,Foreign Affairs|Intelligence,https://crow.house.gov/
+80,80,Colorado,7th,"Pettersen, Brittany",D,Financial Services,https://pettersen.house.gov
+81,81,Colorado,8th,"Caraveo, Yadira",D,"Agriculture|Science, Space, and Technology",https://caraveo.house.gov
+82,82,Connecticut,1st,"Larson, John",D,Ways and Means,https://larson.house.gov/
+83,83,Connecticut,2nd,"Courtney, Joe",D,Armed Services|Education and the Workforce,https://courtney.house.gov/
+84,84,Connecticut,3rd,"DeLauro, Rosa",D,Appropriations,https://delauro.house.gov/
+85,85,Connecticut,4th,"Himes, James",D,Financial Services|Intelligence,https://himes.house.gov/
+86,86,Connecticut,5th,"Hayes, Jahana",D,Agriculture|Education and the Workforce,https://hayes.house.gov
+87,87,Delaware,At Large,"Blunt Rochester, Lisa",D,Energy and Commerce,https://bluntrochester.house.gov
+88,88,District of Columbia,Delegate,"Norton, Eleanor",D,Oversight and Accountability|Transportation and Infrastructure,https://norton.house.gov/
+89,89,Florida,1st,"Gaetz, Matt",R,Armed Services|Select Subcommittee on the Weaponization of the Fed Govt|Judiciary,https://gaetz.house.gov
+90,90,Florida,2nd,"Dunn, Neal",R,Energy and Commerce|Select Comm on the Strategic Competition US and China,https://dunn.house.gov
+91,91,Florida,3rd,"Cammack, Kat",R,Agriculture|Select Subcommittee on the Weaponization of the Fed Govt|Energy and Commerce,https://cammack.house.gov
+92,92,Florida,4th,"Bean, Aaron",R,Education and the Workforce|Transportation and Infrastructure|Small Business,https://bean.house.gov
+93,93,Florida,5th,"Rutherford, John",R,Appropriations|Ethics,https://rutherford.house.gov
+94,94,Florida,6th,"Waltz, Michael",R,Armed Services|Foreign Affairs|Oversight and Accountability|Intelligence,https://waltz.house.gov
+95,95,Florida,7th,"Mills, Cory",R,Armed Services|Foreign Affairs,https://mills.house.gov
+96,96,Florida,8th,"Posey, Bill",R,"Financial Services|Science, Space, and Technology",https://posey.house.gov/
+97,97,Florida,9th,"Soto, Darren",D,Agriculture|Energy and Commerce,https://soto.house.gov
+98,98,Florida,10th,"Frost, Maxwell",D,"Oversight and Accountability|Science, Space, and Technology",https://frost.house.gov
+99,99,Florida,11th,"Webster, Daniel",R,"Natural Resources|Transportation and Infrastructure|Science, Space, and Technology",https://webster.house.gov/
+100,100,Florida,12th,"Bilirakis, Gus",R,Energy and Commerce,https://bilirakis.house.gov/
+101,101,Florida,13th,"Luna, Anna Paulina",R,Oversight and Accountability|Natural Resources,https://luna.house.gov
+102,102,Florida,14th,"Castor, Kathy",D,Energy and Commerce|Select Comm on the Strategic Competition US and China,https://castor.house.gov/
+103,103,Florida,15th,"Lee, Laurel",R,House Administration|Homeland Security|Judiciary,https://laurellee.house.gov
+104,104,Florida,16th,"Buchanan, Vern",R,Joint Committee on Taxation|Ways and Means,https://buchanan.house.gov/
+105,105,Florida,17th,"Steube, W.",R,Select Subcommittee on the Weaponization of the Fed Govt|Ways and Means,https://steube.house.gov/
+106,106,Florida,18th,"Franklin, Scott",R,"Appropriations|Science, Space, and Technology|Veterans' Affairs",https://franklin.house.gov
+107,107,Florida,19th,"Donalds, Byron",R,Financial Services|Oversight and Accountability,https://donalds.house.gov
+108,108,Florida,20th,"Cherfilus-McCormick, Sheila",D,Foreign Affairs|Veterans' Affairs,https://cherfilus-mccormick.house.gov/
+109,109,Florida,21st,"Mast, Brian",R,Foreign Affairs|Transportation and Infrastructure,https://mast.house.gov
+110,110,Florida,22nd,"Frankel, Lois",D,Appropriations,https://frankel.house.gov
+111,111,Florida,23rd,"Moskowitz, Jared",D,Foreign Affairs|Oversight and Accountability,https://moskowitz.house.gov
+112,112,Florida,24th,"Wilson, Frederica",D,Education and the Workforce|Transportation and Infrastructure,https://wilson.house.gov/
+113,113,Florida,25th,"Wasserman Schultz, Debbie",D,Appropriations|Select Subcommittee on the Weaponization of the Fed Govt,https://wassermanschultz.house.gov/
+114,114,Florida,26th,"Diaz-Balart, Mario",R,Appropriations,https://mariodiazbalart.house.gov/
+115,115,Florida,27th,"Salazar, Maria",R,Foreign Affairs|Small Business,https://salazar.house.gov
+116,116,Florida,28th,"Gimenez, Carlos",R,Armed Services|Homeland Security|Select Comm on the Strategic Competition US and China,https://gimenez.house.gov
+117,117,Georgia,1st,"Carter, Earl",R,Budget|Energy and Commerce,https://buddycarter.house.gov/
+118,118,Georgia,2nd,"Bishop, Sanford",D,Agriculture|Appropriations,https://bishop.house.gov/
+119,119,Georgia,3rd,"Ferguson, A.",R,Budget|Ways and Means,https://ferguson.house.gov
+120,120,Georgia,4th,"Johnson, Henry",D,Judiciary|Transportation and Infrastructure,https://hankjohnson.house.gov/
+121,121,Georgia,5th,"Williams, Nikema",D,Financial Services,https://nikemawilliams.house.gov
+122,122,Georgia,6th,"McCormick, Richard",R,"Armed Services|Foreign Affairs|Science, Space, and Technology|Select Subcommittee on the Coronavirus Pandemic",https://mccormick.house.gov
+123,123,Georgia,7th,"McBath, Lucy",D,Education and the Workforce|Judiciary,https://mcbath.house.gov
+124,124,Georgia,8th,"Scott, Austin",R,Agriculture|Armed Services|Intelligence|Rules,https://austinscott.house.gov/
+125,125,Georgia,9th,"Clyde, Andrew",R,Appropriations,https://clyde.house.gov
+126,126,Georgia,10th,"Collins, Mike",R,"Natural Resources|Transportation and Infrastructure|Science, Space, and Technology",https://collins.house.gov
+127,127,Georgia,11th,"Loudermilk, Barry",R,Financial Services|House Administration,https://loudermilk.house.gov
+128,128,Georgia,12th,"Allen, Rick",R,Education and the Workforce|Energy and Commerce,https://allen.house.gov
+129,129,Georgia,13th,"Scott, David",D,Agriculture|Financial Services,https://davidscott.house.gov/
+130,130,Georgia,14th,"Greene, Marjorie",R,Oversight and Accountability|Homeland Security|Select Subcommittee on the Coronavirus Pandemic,https://greene.house.gov
+131,131,Guam,Delegate,"Moylan, James",R,Armed Services|Foreign Affairs|Natural Resources,https://moylan.house.gov
+132,132,Hawaii,1st,"Case, Ed",D,Appropriations|Natural Resources,https://case.house.gov/
+133,133,Hawaii,2nd,"Tokuda, Jill",D,Agriculture|Armed Services|Select Subcommittee on the Coronavirus Pandemic,https://tokuda.house.gov
+134,134,Idaho,1st,"Fulcher, Russ",R,Energy and Commerce|Natural Resources,https://fulcher.house.gov/
+135,135,Idaho,2nd,"Simpson, Michael",R,Appropriations,https://simpson.house.gov
+136,136,Illinois,1st,"Jackson, Jonathan",D,Agriculture|Foreign Affairs,https://jonathanjackson.house.gov
+137,137,Illinois,2nd,"Kelly, Robin",D,Energy and Commerce,https://robinkelly.house.gov/
+138,138,Illinois,3rd,"Ramirez, Delia",D,Homeland Security|Veterans' Affairs,https://ramirez.house.gov
+139,139,Illinois,4th,"Garcia, Jesus",D,Judiciary|Transportation and Infrastructure,https://chuygarcia.house.gov/
+140,140,Illinois,5th,"Quigley, Mike",D,Appropriations,https://quigley.house.gov/
+141,141,Illinois,6th,"Casten, Sean",D,"Financial Services|Science, Space, and Technology",https://casten.house.gov
+142,142,Illinois,7th,"Davis, Danny",D,Ways and Means,https://davis.house.gov
+143,143,Illinois,8th,"Krishnamoorthi, Raja",D,Oversight and Accountability|Intelligence|Select Comm on the Strategic Competition US and China,https://krishnamoorthi.house.gov
+144,144,Illinois,9th,"Schakowsky, Janice",D,Budget|Energy and Commerce,https://schakowsky.house.gov
+145,145,Illinois,10th,"Schneider, Bradley",D,Foreign Affairs|Ways and Means,https://schneider.house.gov
+146,146,Illinois,11th,"Foster, Bill",D,Financial Services,https://foster.house.gov
+147,147,Illinois,12th,"Bost, Mike",R,Agriculture|Transportation and Infrastructure|Veterans' Affairs,https://bost.house.gov/
+148,148,Illinois,13th,"Budzinski, Nikki",D,Agriculture|Veterans' Affairs,https://budzinski.house.gov
+149,149,Illinois,14th,"Underwood, Lauren",D,Appropriations,https://underwood.house.gov/
+150,150,Illinois,15th,"Miller, Mary",R,Agriculture|Education and the Workforce,https://marymiller.house.gov
+151,151,Illinois,16th,"LaHood, Darin",R,Intelligence|Ways and Means|Select Comm on the Strategic Competition US and China,https://lahood.house.gov/
+152,152,Illinois,17th,"Sorensen, Eric",D,"Agriculture|Science, Space, and Technology",https://sorensen.house.gov
+153,153,Indiana,1st,"Mrvan, Frank",D,Education and the Workforce|Veterans' Affairs,https://mrvan.house.gov
+154,154,Indiana,2nd,"Yakym, Rudy",R,Budget|Transportation and Infrastructure,https://yakym.house.gov
+155,155,Indiana,3rd,"Banks, Jim",R,Armed Services|Education and the Workforce|Select Comm on the Strategic Competition US and China,https://banks.house.gov
+156,156,Indiana,4th,"Baird, James",R,"Agriculture|Foreign Affairs|Science, Space, and Technology",https://baird.house.gov/
+157,157,Indiana,5th,"Spartz, Victoria",R,Judiciary,https://spartz.house.gov
+158,158,Indiana,6th,"Pence, Greg",R,Energy and Commerce,https://pence.house.gov/
+159,159,Indiana,7th,"Carson, Andre",D,Intelligence|Transportation and Infrastructure|Select Comm on the Strategic Competition US and China,https://carson.house.gov/
+160,160,Indiana,8th,"Bucshon, Larry",R,Energy and Commerce,https://bucshon.house.gov/
+161,161,Indiana,9th,"Houchin, Erin",R,Financial Services|Education and the Workforce|Rules,https://houchin.house.gov
+162,162,Iowa,1st,"Miller-Meeks, Mariannette",R,Energy and Commerce|Select Subcommittee on the Coronavirus Pandemic|Veterans' Affairs,https://millermeeks.house.gov/
+163,163,Iowa,2nd,"Hinson, Ashley",R,Appropriations|Select Comm on the Strategic Competition US and China,https://hinson.house.gov
+164,164,Iowa,3rd,"Nunn, Zachary",R,Agriculture|Financial Services,https://nunn.house.gov
+165,165,Iowa,4th,"Feenstra, Randy",R,Agriculture|Ways and Means,https://feenstra.house.gov
+166,166,Kansas,1st,"Mann, Tracey",R,Agriculture|Transportation and Infrastructure|Small Business,https://mann.house.gov
+167,167,Kansas,2nd,"LaTurner, Jake",R,Appropriations|Oversight and Accountability,https://laturner.house.gov
+168,168,Kansas,3rd,"Davids, Sharice",D,Agriculture|Transportation and Infrastructure|Small Business,https://davids.house.gov/
+169,169,Kansas,4th,"Estes, Ron",R,Budget|Education and the Workforce|Ways and Means,https://estes.house.gov/
+170,170,Kentucky,1st,"Comer, James",R,Education and the Workforce|Oversight and Accountability,https://comer.house.gov/
+171,171,Kentucky,2nd,"Guthrie, Brett",R,Energy and Commerce,https://guthrie.house.gov/
+172,172,Kentucky,3rd,"McGarvey, Morgan",D,Small Business|Veterans' Affairs,https://mcgarvey.house.gov
+173,173,Kentucky,4th,"Massie, Thomas",R,Select Subcommittee on the Weaponization of the Fed Govt|Judiciary|Transportation and Infrastructure|Rules,https://massie.house.gov
+174,174,Kentucky,5th,"Rogers, Harold",R,Appropriations,https://halrogers.house.gov/
+175,175,Kentucky,6th,"Barr, Andy",R,Financial Services|Foreign Affairs|Select Comm on the Strategic Competition US and China,https://barr.house.gov/
+176,176,Louisiana,1st,"Scalise, Steve",R,,https://scalise.house.gov/
+177,177,Louisiana,2nd,"Carter, Troy",D,Homeland Security|Transportation and Infrastructure,https://troycarter.house.gov
+178,178,Louisiana,3rd,"Higgins, Clay",R,Armed Services|Oversight and Accountability|Homeland Security,https://clayhiggins.house.gov
+179,179,Louisiana,4th,"Johnson, Mike",R,,https://mikejohnson.house.gov
+180,180,Louisiana,5th,"Letlow, Julia",R,Appropriations|Education and the Workforce,https://letlow.house.gov
+181,181,Louisiana,6th,"Graves, Garret",R,Natural Resources|Transportation and Infrastructure,https://garretgraves.house.gov/
+182,182,Maine,1st,"Pingree, Chellie",D,Agriculture|Appropriations,https://pingree.house.gov/
+183,183,Maine,2nd,"Golden, Jared",D,Armed Services|Small Business,https://golden.house.gov
+184,184,Maryland,1st,"Harris, Andy",R,Appropriations,https://harris.house.gov/
+185,185,Maryland,2nd,"Ruppersberger, C.",D,Appropriations,https://ruppersberger.house.gov
+186,186,Maryland,3rd,"Sarbanes, John",D,Energy and Commerce,https://sarbanes.house.gov/
+187,187,Maryland,4th,"Ivey, Glenn",D,Homeland Security|Judiciary|Ethics,https://ivey.house.gov
+188,188,Maryland,5th,"Hoyer, Steny",D,Appropriations,https://hoyer.house.gov/
+189,189,Maryland,6th,"Trone, David",D,Appropriations|Budget,https://trone.house.gov
+190,190,Maryland,7th,"Mfume, Kweisi",D,Foreign Affairs|Oversight and Accountability|Select Subcommittee on the Coronavirus Pandemic,https://mfume.house.gov/
+191,191,Maryland,8th,"Raskin, Jamie",D,Oversight and Accountability,https://raskin.house.gov
+192,192,Massachusetts,1st,"Neal, Richard",D,Joint Committee on Taxation|Ways and Means,https://neal.house.gov/
+193,193,Massachusetts,2nd,"McGovern, James",D,Agriculture|Rules,https://mcgovern.house.gov/
+194,194,Massachusetts,3rd,"Trahan, Lori",D,Energy and Commerce,https://trahan.house.gov
+195,195,Massachusetts,4th,"Auchincloss, Jake",D,Transportation and Infrastructure|Select Comm on the Strategic Competition US and China,https://auchincloss.house.gov
+196,196,Massachusetts,5th,"Clark, Katherine",D,,https://katherineclark.house.gov/index.cfm/home
+197,197,Massachusetts,6th,"Moulton, Seth",D,Armed Services|Transportation and Infrastructure|Select Comm on the Strategic Competition US and China,https://moulton.house.gov/
+198,198,Massachusetts,7th,"Pressley, Ayanna",D,Financial Services|Oversight and Accountability,https://pressley.house.gov
+199,199,Massachusetts,8th,"Lynch, Stephen",D,Financial Services|Select Subcommittee on the Weaponization of the Fed Govt|Oversight and Accountability,https://lynch.house.gov/
+200,200,Massachusetts,9th,"Keating, William",D,Armed Services|Foreign Affairs,https://keating.house.gov/
+201,201,Michigan,1st,"Bergman, Jack",R,Armed Services|Budget|Veterans' Affairs,https://bergman.house.gov
+202,202,Michigan,2nd,"Moolenaar, John",R,Appropriations|Select Comm on the Strategic Competition US and China,https://moolenaar.house.gov/
+203,203,Michigan,3rd,"Scholten, Hillary",D,Transportation and Infrastructure|Small Business,https://scholten.house.gov
+204,204,Michigan,4th,"Huizenga, Bill",R,Financial Services|Foreign Affairs,https://huizenga.house.gov/
+205,205,Michigan,5th,"Walberg, Tim",R,Education and the Workforce|Energy and Commerce,https://walberg.house.gov/
+206,206,Michigan,6th,"Dingell, Debbie",D,Energy and Commerce|Natural Resources|Select Subcommittee on the Coronavirus Pandemic,https://debbiedingell.house.gov/
+207,207,Michigan,7th,"Slotkin, Elissa",D,Agriculture|Armed Services,https://slotkin.house.gov/
+208,208,Michigan,8th,"Kildee, Daniel",D,Budget|Ways and Means,https://dankildee.house.gov
+209,209,Michigan,9th,"McClain, Lisa",R,Armed Services|Budget|Education and the Workforce|Oversight and Accountability,https://mcclain.house.gov
+210,210,Michigan,10th,"James, John",R,Foreign Affairs|Energy and Commerce,https://james.house.gov
+211,211,Michigan,11th,"Stevens, Haley",D,"Education and the Workforce|Science, Space, and Technology|Select Comm on the Strategic Competition US and China",https://stevens.house.gov/
+212,212,Michigan,12th,"Tlaib, Rashida",D,Financial Services|Oversight and Accountability,https://tlaib.house.gov/
+213,213,Michigan,13th,"Thanedar, Shri",D,Homeland Security|Small Business,https://thanedar.house.gov
+214,214,Minnesota,1st,"Finstad, Brad",R,Agriculture|Armed Services,https://finstad.house.gov/
+215,215,Minnesota,2nd,"Craig, Angie",D,Agriculture|Energy and Commerce,https://craig.house.gov
+216,216,Minnesota,3rd,"Phillips, Dean",D,Foreign Affairs|Small Business,https://phillips.house.gov/
+217,217,Minnesota,4th,"McCollum, Betty",D,Appropriations,https://mccollum.house.gov
+218,218,Minnesota,5th,"Omar, Ilhan",D,Budget|Education and the Workforce,https://omar.house.gov/
+219,219,Minnesota,6th,"Emmer, Tom",R,Financial Services,https://emmer.house.gov/
+220,220,Minnesota,7th,"Fischbach, Michelle",R,Budget|Rules|Ethics|Ways and Means,https://fischbach.house.gov
+221,221,Minnesota,8th,"Stauber, Pete",R,Natural Resources|Transportation and Infrastructure|Small Business,https://stauber.house.gov
+222,222,Mississippi,1st,"Kelly, Trent",R,Agriculture|Armed Services|Intelligence,https://trentkelly.house.gov/
+223,223,Mississippi,2nd,"Thompson, Bennie",D,Homeland Security,https://benniethompson.house.gov/
+224,224,Mississippi,3rd,"Guest, Michael",R,Appropriations|Homeland Security|Ethics,https://guest.house.gov
+225,225,Mississippi,4th,"Ezell, Mike",R,Homeland Security|Transportation and Infrastructure,https://ezell.house.gov
+226,226,Missouri,1st,"Bush, Cori",D,Oversight and Accountability|Judiciary,https://bush.house.gov
+227,227,Missouri,2nd,"Wagner, Ann",R,Financial Services|Foreign Affairs,https://wagner.house.gov
+228,228,Missouri,3rd,"Luetkemeyer, Blaine",R,Financial Services|Small Business|Select Comm on the Strategic Competition US and China,https://luetkemeyer.house.gov/
+229,229,Missouri,4th,"Alford, Mark",R,Agriculture|Armed Services|Small Business,https://alford.house.gov
+230,230,Missouri,5th,"Cleaver, Emanuel",D,Financial Services,https://cleaver.house.gov
+231,231,Missouri,6th,"Graves, Sam",R,Armed Services|Transportation and Infrastructure,https://graves.house.gov/
+232,232,Missouri,7th,"Burlison, Eric",R,Education and the Workforce|Oversight and Accountability|Transportation and Infrastructure,https://burlison.house.gov
+233,233,Missouri,8th,"Smith, Jason",R,Joint Committee on Taxation|Ways and Means,https://jasonsmith.house.gov
+234,234,Montana,1st,"Zinke, Ryan",R,Appropriations|Foreign Affairs,https://zinke.house.gov
+235,235,Montana,2nd,"Rosendale, Matthew",R,Natural Resources|Veterans' Affairs,https://rosendale.house.gov
+236,236,Nebraska,1st,"Flood, Mike",R,Financial Services,https://flood.house.gov/
+237,237,Nebraska,2nd,"Bacon, Don",R,Agriculture|Armed Services,https://bacon.house.gov
+238,238,Nebraska,3rd,"Smith, Adrian",R,Joint Committee on Taxation|Ways and Means,https://adriansmith.house.gov/
+239,239,Nevada,1st,"Titus, Dina",D,Foreign Affairs|Transportation and Infrastructure,https://titus.house.gov/
+240,240,Nevada,2nd,"Amodei, Mark",R,Appropriations,https://amodei.house.gov
+241,241,Nevada,3rd,"Lee, Susie",D,Appropriations|Natural Resources,https://susielee.house.gov
+242,242,Nevada,4th,"Horsford, Steven",D,Armed Services|Ways and Means,https://horsford.house.gov
+243,243,New Hampshire,1st,"Pappas, Chris",D,Transportation and Infrastructure|Small Business|Veterans' Affairs,https://pappas.house.gov
+244,244,New Hampshire,2nd,"Kuster, Ann",D,Energy and Commerce,https://kuster.house.gov
+245,245,New Jersey,1st,"Norcross, Donald",D,Armed Services|Education and the Workforce,https://norcross.house.gov
+246,246,New Jersey,2nd,"Van Drew, Jefferson",R,Judiciary|Transportation and Infrastructure,https://vandrew.house.gov
+247,247,New Jersey,3rd,"Kim, Andy",D,Armed Services|Foreign Affairs|Select Comm on the Strategic Competition US and China,https://kim.house.gov/
+248,248,New Jersey,4th,"Smith, Christopher",R,Foreign Affairs,https://chrissmith.house.gov/
+249,249,New Jersey,5th,"Gottheimer, Josh",D,Financial Services|Intelligence,https://gottheimer.house.gov
+250,250,New Jersey,6th,"Pallone, Frank",D,Energy and Commerce,https://pallone.house.gov
+251,251,New Jersey,7th,"Kean, Thomas",R,"Foreign Affairs|Transportation and Infrastructure|Science, Space, and Technology",https://kean.house.gov
+252,252,New Jersey,8th,"Menendez, Robert",D,Homeland Security|Transportation and Infrastructure,https://menendez.house.gov
+253,254,New Jersey,10th,"McIver, LaMonica",D,Homeland Security|Small Business,https://mciver.house.gov/
+254,255,New Jersey,11th,"Sherrill, Mikie",D,Armed Services|Select Comm on the Strategic Competition US and China,https://sherrill.house.gov/
+255,256,New Jersey,12th,"Watson Coleman, Bonnie",D,Appropriations,https://watsoncoleman.house.gov/
+256,257,New Mexico,1st,"Stansbury, Melanie",D,Oversight and Accountability|Natural Resources,https://stansbury.house.gov/
+257,258,New Mexico,2nd,"Vasquez, Gabe",D,Agriculture|Armed Services,https://vasquez.house.gov
+258,259,New Mexico,3rd,"Leger Fernandez, Teresa",D,Education and the Workforce|Natural Resources|Rules,https://fernandez.house.gov
+259,260,New York,1st,"LaLota, Nick",R,Armed Services|Homeland Security|Small Business,https://lalota.house.gov
+260,261,New York,2nd,"Garbarino, Andrew",R,Financial Services|Homeland Security|Ethics,https://garbarino.house.gov
+261,262,New York,3rd,"Suozzi, Thomas R.",D,Budget|Homeland Security,https://suozzi.house.gov
+262,263,New York,4th,"D'Esposito, Anthony",R,House Administration|Homeland Security|Transportation and Infrastructure,https://desposito.house.gov
+263,264,New York,5th,"Meeks, Gregory",D,Financial Services|Foreign Affairs,https://meeks.house.gov
+264,265,New York,6th,"Meng, Grace",D,Appropriations,https://meng.house.gov
+265,266,New York,7th,"Velazquez, Nydia",D,Financial Services|Natural Resources|Small Business,https://velazquez.house.gov
+266,267,New York,8th,"Jeffries, Hakeem",D,,https://jeffries.house.gov
+267,268,New York,9th,"Clarke, Yvette",D,Homeland Security|Energy and Commerce,https://clarke.house.gov/
+268,269,New York,10th,"Goldman, Daniel",D,Select Subcommittee on the Weaponization of the Fed Govt|Oversight and Accountability|Homeland Security,https://goldman.house.gov
+269,270,New York,11th,"Malliotakis, Nicole",R,Select Subcommittee on the Coronavirus Pandemic|Ways and Means,https://malliotakis.house.gov
+270,271,New York,12th,"Nadler, Jerrold",D,Judiciary,https://nadler.house.gov
+271,272,New York,13th,"Espaillat, Adriano",D,Appropriations|Budget,https://espaillat.house.gov
+272,273,New York,14th,"Ocasio-Cortez, Alexandria",D,Oversight and Accountability|Natural Resources,https://ocasio-cortez.house.gov/
+273,274,New York,15th,"Torres, Ritchie",D,Financial Services|Select Comm on the Strategic Competition US and China,https://ritchietorres.house.gov
+274,275,New York,16th,"Bowman, Jamaal",D,"Education and the Workforce|Science, Space, and Technology",https://bowman.house.gov
+275,276,New York,17th,"Lawler, Michael",R,Financial Services|Foreign Affairs,https://lawler.house.gov
+276,277,New York,18th,"Ryan, Patrick",D,Armed Services|Transportation and Infrastructure,https://patryan.house.gov/
+277,278,New York,19th,"Molinaro, Marcus",R,Agriculture|Transportation and Infrastructure|Small Business,https://molinaro.house.gov
+278,279,New York,20th,"Tonko, Paul",D,"Energy and Commerce|Science, Space, and Technology",https://tonko.house.gov/
+279,280,New York,21st,"Stefanik, Elise",R,Armed Services|Education and the Workforce|Select Subcommittee on the Weaponization of the Fed Govt|Intelligence,https://stefanik.house.gov/
+280,281,New York,22nd,"Williams, Brandon",R,"Education and the Workforce|Transportation and Infrastructure|Science, Space, and Technology",https://brandonwilliams.house.gov
+281,282,New York,23rd,"Langworthy, Nicholas",R,Agriculture|Oversight and Accountability|Rules,https://langworthy.house.gov
+282,283,New York,24th,"Tenney, Claudia",R,"Science, Space, and Technology|Ways and Means",https://tenney.house.gov/
+283,284,New York,25th,"Morelle, Joseph",D,Appropriations|House Administration|Joint Committee of Congress on the Library,https://morelle.house.gov
+284,285,New York,26th,"Kennedy, Timothy",D,Homeland Security|Veterans' Affairs,https://kennedy.house.gov
+285,286,North Carolina,1st,"Davis, Donald",D,Agriculture|Armed Services,https://dondavis.house.gov
+286,287,North Carolina,2nd,"Ross, Deborah",D,"Judiciary|Ethics|Science, Space, and Technology|Select Subcommittee on the Coronavirus Pandemic",https://ross.house.gov
+287,288,North Carolina,3rd,"Murphy, Gregory",R,House Administration|Veterans' Affairs|Ways and Means,https://murphy.house.gov
+288,289,North Carolina,4th,"Foushee, Valerie",D,"Transportation and Infrastructure|Science, Space, and Technology",https://foushee.house.gov
+289,290,North Carolina,5th,"Foxx, Virginia",R,Education and the Workforce|Oversight and Accountability,https://foxx.house.gov/
+290,291,North Carolina,6th,"Manning, Kathy",D,Education and the Workforce|Foreign Affairs,https://manning.house.gov
+291,292,North Carolina,7th,"Rouzer, David",R,Agriculture|Transportation and Infrastructure,https://rouzer.house.gov/
+292,293,North Carolina,8th,"Bishop, Dan",R,Select Subcommittee on the Weaponization of the Fed Govt|Homeland Security|Judiciary,https://danbishop.house.gov
+293,294,North Carolina,9th,"Hudson, Richard",R,Energy and Commerce,https://hudson.house.gov
+294,295,North Carolina,10th,"McHenry, Patrick",R,Financial Services,https://mchenry.house.gov
+295,296,North Carolina,11th,"Edwards, Chuck",R,Appropriations|Budget,https://edwards.house.gov
+296,297,North Carolina,12th,"Adams, Alma",D,Agriculture|Education and the Workforce,https://adams.house.gov
+297,298,North Carolina,13th,"Nickel, Wiley",D,Financial Services,https://nickel.house.gov
+298,299,North Carolina,14th,"Jackson, Jeff",D,"Armed Services|Science, Space, and Technology",https://jeffjackson.house.gov
+299,300,North Dakota,At Large,"Armstrong, Kelly",R,Select Subcommittee on the Weaponization of the Fed Govt|Energy and Commerce|Judiciary,https://armstrong.house.gov
+300,301,Northern Mariana Islands,Delegate,"Sablan, Gregorio",D,Education and the Workforce|Natural Resources,https://sablan.house.gov/
+301,302,Ohio,1st,"Landsman, Greg",D,Small Business|Veterans' Affairs,https://landsman.house.gov
+302,303,Ohio,2nd,"Wenstrup, Brad",R,Intelligence|Select Subcommittee on the Coronavirus Pandemic|Ways and Means,https://wenstrup.house.gov
+303,304,Ohio,3rd,"Beatty, Joyce",D,Financial Services,https://beatty.house.gov
+304,305,Ohio,4th,"Jordan, Jim",R,Select Subcommittee on the Weaponization of the Fed Govt|Oversight and Accountability|Judiciary,https://jordan.house.gov/
+305,306,Ohio,5th,"Latta, Robert",R,Energy and Commerce,https://latta.house.gov/
+306,307,Ohio,6th,"Rulli, Michael A.",R,Education and the Workforce|Judiciary,https://rulli.house.gov
+307,308,Ohio,7th,"Miller, Max",R,"Agriculture|Science, Space, and Technology",https://maxmiller.house.gov
+308,309,Ohio,8th,"Davidson, Warren",R,Financial Services|Foreign Affairs|Select Subcommittee on the Weaponization of the Fed Govt,https://davidson.house.gov/
+309,310,Ohio,9th,"Kaptur, Marcy",D,Appropriations,https://kaptur.house.gov/
+310,311,Ohio,10th,"Turner, Michael",R,Armed Services|Oversight and Accountability|Intelligence,https://turner.house.gov/
+311,312,Ohio,11th,"Brown, Shontel",D,Agriculture|Oversight and Accountability|Select Comm on the Strategic Competition US and China,https://shontelbrown.house.gov
+312,313,Ohio,12th,"Balderson, Troy",R,Energy and Commerce,https://balderson.house.gov
+313,314,Ohio,13th,"Sykes, Emilia",D,"Transportation and Infrastructure|Science, Space, and Technology",https://sykes.house.gov
+314,315,Ohio,14th,"Joyce, David",R,Appropriations|Ethics,https://joyce.house.gov
+315,316,Ohio,15th,"Carey, Mike",R,House Administration|Joint Committee of Congress on the Library|Ways and Means,https://carey.house.gov
+316,317,Oklahoma,1st,"Hern, Kevin",R,Ways and Means,https://hern.house.gov
+317,318,Oklahoma,2nd,"Brecheen, Josh",R,Budget|Homeland Security,https://brecheen.house.gov
+318,319,Oklahoma,3rd,"Lucas, Frank",R,"Agriculture|Financial Services|Science, Space, and Technology",https://lucas.house.gov
+319,320,Oklahoma,4th,"Cole, Tom",R,Appropriations,https://cole.house.gov
+320,321,Oklahoma,5th,"Bice, Stephanie",R,"Appropriations|House Administration|Science, Space, and Technology",https://bice.house.gov
+321,322,Oregon,1st,"Bonamici, Suzanne",D,"Education and the Workforce|Science, Space, and Technology",https://bonamici.house.gov
+322,323,Oregon,2nd,"Bentz, Cliff",R,Natural Resources|Judiciary,https://bentz.house.gov
+323,324,Oregon,3rd,"Blumenauer, Earl",D,Budget|Ways and Means,https://blumenauer.house.gov/
+324,325,Oregon,4th,"Hoyle, Val",D,Natural Resources|Transportation and Infrastructure,https://hoyle.house.gov
+325,326,Oregon,5th,"Chavez-DeRemer, Lori",R,Agriculture|Education and the Workforce|Transportation and Infrastructure,https://chavez-deremer.house.gov
+326,327,Oregon,6th,"Salinas, Andrea",D,"Agriculture|Science, Space, and Technology",https://salinas.house.gov
+327,328,Pennsylvania,1st,"Fitzpatrick, Brian",R,Intelligence|Ways and Means,https://fitzpatrick.house.gov/
+328,329,Pennsylvania,2nd,"Boyle, Brendan",D,Budget,https://boyle.house.gov/
+329,330,Pennsylvania,3rd,"Evans, Dwight",D,Ways and Means,https://evans.house.gov/
+330,331,Pennsylvania,4th,"Dean, Madeleine",D,Foreign Affairs|Judiciary,https://dean.house.gov
+331,332,Pennsylvania,5th,"Scanlon, Mary",D,Judiciary|Rules,https://scanlon.house.gov/
+332,333,Pennsylvania,6th,"Houlahan, Chrissy",D,Armed Services|Intelligence,https://houlahan.house.gov/
+333,334,Pennsylvania,7th,"Wild, Susan",D,Education and the Workforce|Foreign Affairs|Ethics,https://wild.house.gov
+334,335,Pennsylvania,8th,"Cartwright, Matt",D,Appropriations,https://cartwright.house.gov
+335,336,Pennsylvania,9th,"Meuser, Daniel",R,Financial Services|Small Business,https://meuser.house.gov
+336,337,Pennsylvania,10th,"Perry, Scott",R,Foreign Affairs|Oversight and Accountability|Intelligence|Transportation and Infrastructure,https://perry.house.gov/
+337,338,Pennsylvania,11th,"Smucker, Lloyd",R,Budget|Education and the Workforce|Ways and Means,https://smucker.house.gov/
+338,339,Pennsylvania,12th,"Lee, Summer",D,"Oversight and Accountability|Science, Space, and Technology",https://summerlee.house.gov
+339,340,Pennsylvania,13th,"Joyce, John",R,Energy and Commerce|Select Subcommittee on the Coronavirus Pandemic,https://johnjoyce.house.gov/
+340,341,Pennsylvania,14th,"Reschenthaler, Guy",R,Appropriations|Rules,https://reschenthaler.house.gov/
+341,342,Pennsylvania,15th,"Thompson, Glenn",R,Agriculture|Education and the Workforce,https://thompson.house.gov
+342,343,Pennsylvania,16th,"Kelly, Mike",R,Ways and Means,https://kelly.house.gov
+343,344,Pennsylvania,17th,"Deluzio, Christopher",D,Armed Services|Transportation and Infrastructure,https://deluzio.house.gov
+344,345,Puerto Rico,Resident Commissioner,"Gonzalez-Colon, Jenniffer",R,Natural Resources|Transportation and Infrastructure,https://gonzalez-colon.house.gov
+345,346,Rhode Island,1st,"Amo, Gabe",D,"Foreign Affairs|Science, Space, and Technology",https://amo.house.gov
+346,347,Rhode Island,2nd,"Magaziner, Seth",D,Homeland Security|Natural Resources,https://magaziner.house.gov
+347,348,South Carolina,1st,"Mace, Nancy",R,Armed Services|Oversight and Accountability|Veterans' Affairs,https://mace.house.gov
+348,349,South Carolina,2nd,"Wilson, Joe",R,Armed Services|Education and the Workforce|Foreign Affairs,https://joewilson.house.gov/
+349,350,South Carolina,3rd,"Duncan, Jeff",R,Energy and Commerce,https://jeffduncan.house.gov/
+350,351,South Carolina,4th,"Timmons, William",R,Financial Services|Oversight and Accountability,https://timmons.house.gov/
+351,352,South Carolina,5th,"Norman, Ralph",R,Financial Services|Budget|Rules,https://norman.house.gov
+352,353,South Carolina,6th,"Clyburn, James",D,,https://clyburn.house.gov/
+353,354,South Carolina,7th,"Fry, Russell",R,Select Subcommittee on the Weaponization of the Fed Govt|Oversight and Accountability|Judiciary,https://fry.house.gov
+354,355,South Dakota,At Large,"Johnson, Dusty",R,Agriculture|Transportation and Infrastructure|Select Comm on the Strategic Competition US and China,https://dustyjohnson.house.gov/
+355,356,Tennessee,1st,"Harshbarger, Diana",R,Energy and Commerce,https://harshbarger.house.gov
+356,357,Tennessee,2nd,"Burchett, Tim",R,Foreign Affairs|Oversight and Accountability|Transportation and Infrastructure,https://burchett.house.gov
+357,358,Tennessee,3rd,"Fleischmann, Charles",R,"Appropriations|Science, Space, and Technology",https://fleischmann.house.gov/
+358,359,Tennessee,4th,"DesJarlais, Scott",R,Agriculture|Armed Services,https://desjarlais.house.gov/
+359,360,Tennessee,5th,"Ogles, Andrew",R,Financial Services,https://ogles.house.gov
+360,361,Tennessee,6th,"Rose, John",R,Agriculture|Financial Services,https://johnrose.house.gov/
+361,362,Tennessee,7th,"Green, Mark",R,Foreign Affairs|Homeland Security,https://markgreen.house.gov/
+362,363,Tennessee,8th,"Kustoff, David",R,Ways and Means,https://kustoff.house.gov
+363,364,Tennessee,9th,"Cohen, Steve",D,Judiciary|Transportation and Infrastructure,https://cohen.house.gov/
+364,365,Texas,1st,"Moran, Nathaniel",R,Education and the Workforce|Foreign Affairs|Judiciary,https://moran.house.gov
+365,366,Texas,2nd,"Crenshaw, Dan",R,Energy and Commerce|Intelligence,https://crenshaw.house.gov/
+366,367,Texas,3rd,"Self, Keith",R,Foreign Affairs|Veterans' Affairs,https://keithself.house.gov
+367,368,Texas,4th,"Fallon, Pat",R,Armed Services|Oversight and Accountability,https://fallon.house.gov
+368,369,Texas,5th,"Gooden, Lance",R,Armed Services|Judiciary,https://gooden.house.gov
+369,370,Texas,6th,"Ellzey, Jake",R,Appropriations|Small Business,https://ellzey.house.gov/
+370,371,Texas,7th,"Fletcher, Lizzie",D,Energy and Commerce,https://fletcher.house.gov
+371,372,Texas,8th,"Luttrell, Morgan",R,Armed Services|Homeland Security|Veterans' Affairs,https://luttrell.house.gov
+372,373,Texas,9th,"Green, Al",D,Financial Services,https://algreen.house.gov
+373,374,Texas,10th,"McCaul, Michael",R,Foreign Affairs|Homeland Security,https://mccaul.house.gov
+374,375,Texas,11th,"Pfluger, August",R,Homeland Security|Energy and Commerce,https://pfluger.house.gov
+375,376,Texas,12th,"Granger, Kay",R,Appropriations,https://kaygranger.house.gov
+376,377,Texas,13th,"Jackson, Ronny",R,Agriculture|Armed Services|Foreign Affairs|Intelligence|Select Subcommittee on the Coronavirus Pandemic,https://jackson.house.gov
+377,378,Texas,14th,"Weber, Randy",R,"Energy and Commerce|Science, Space, and Technology",https://weber.house.gov
+378,379,Texas,15th,"De La Cruz, Monica",R,Agriculture|Financial Services,https://delacruz.house.gov
+379,380,Texas,16th,"Escobar, Veronica",D,Armed Services|Judiciary|Ethics,https://escobar.house.gov
+380,381,Texas,17th,"Sessions, Pete",R,Financial Services|Oversight and Accountability,https://sessions.house.gov
+381,383,Texas,19th,"Arrington, Jodey",R,Budget|Ways and Means,https://arrington.house.gov
+382,384,Texas,20th,"Castro, Joaquin",D,Foreign Affairs|Intelligence,https://castro.house.gov
+383,385,Texas,21st,"Roy, Chip",R,Budget|Judiciary|Rules,https://roy.house.gov
+384,386,Texas,22nd,"Nehls, Troy",R,Judiciary|Transportation and Infrastructure,https://nehls.house.gov
+385,387,Texas,23rd,"Gonzales, Tony",R,Appropriations|Homeland Security,https://gonzales.house.gov
+386,388,Texas,24th,"Van Duyne, Beth",R,Small Business|Ways and Means,https://vanduyne.house.gov
+387,389,Texas,25th,"Williams, Roger",R,Financial Services|Small Business,https://williams.house.gov
+388,390,Texas,26th,"Burgess, Michael",R,Budget|Energy and Commerce|Rules,https://burgess.house.gov/
+389,391,Texas,27th,"Cloud, Michael",R,Appropriations|Oversight and Accountability|Select Subcommittee on the Coronavirus Pandemic,https://cloud.house.gov
+390,392,Texas,28th,"Cuellar, Henry",D,Appropriations,https://cuellar.house.gov/
+391,393,Texas,29th,"Garcia, Sylvia",D,Financial Services|Select Subcommittee on the Weaponization of the Fed Govt,https://sylviagarcia.house.gov/
+392,394,Texas,30th,"Crockett, Jasmine",D,Agriculture|Select Subcommittee on the Weaponization of the Fed Govt|Oversight and Accountability,https://crockett.house.gov
+393,395,Texas,31st,"Carter, John",R,Appropriations,https://carter.house.gov/
+394,396,Texas,32nd,"Allred, Colin",D,Foreign Affairs|Transportation and Infrastructure,https://allred.house.gov/
+395,397,Texas,33rd,"Veasey, Marc",D,Armed Services|Energy and Commerce,https://veasey.house.gov
+396,398,Texas,34th,"Gonzalez, Vicente",D,Financial Services,https://gonzalez.house.gov
+397,399,Texas,35th,"Casar, Greg",D,Agriculture|Oversight and Accountability,https://casar.house.gov
+398,400,Texas,36th,"Babin, Brian",R,"Transportation and Infrastructure|Science, Space, and Technology",https://babin.house.gov
+399,401,Texas,37th,"Doggett, Lloyd",D,Budget|Joint Committee on Taxation|Ways and Means,https://doggett.house.gov
+400,402,Texas,38th,"Hunt, Wesley",R,Natural Resources|Judiciary|Small Business,https://hunt.house.gov
+401,403,Utah,1st,"Moore, Blake",R,Budget|Ways and Means,https://blakemoore.house.gov
+402,404,Utah,2nd,"Maloy, Celeste",R,Transportation and Infrastructure|Small Business,https://maloy.house.gov
+403,405,Utah,3rd,"Curtis, John",R,Energy and Commerce|Natural Resources,https://curtis.house.gov/
+404,406,Utah,4th,"Owens, Burgess",R,Education and the Workforce|Transportation and Infrastructure,https://owens.house.gov
+405,407,Vermont,At Large,"Balint, Becca",D,Budget|Judiciary,https://balint.house.gov
+406,408,Virginia,1st,"Wittman, Robert",R,Armed Services|Natural Resources|Select Comm on the Strategic Competition US and China,https://wittman.house.gov/
+407,409,Virginia,2nd,"Kiggans, Jennifer",R,Armed Services|Natural Resources|Veterans' Affairs,https://kiggans.house.gov
+408,410,Virginia,3rd,"Scott, Robert",D,Budget|Education and the Workforce,https://bobbyscott.house.gov
+409,411,Virginia,4th,"McClellan, Jennifer",D,"Armed Services|Science, Space, and Technology",https://mcclellan.house.gov/
+410,412,Virginia,5th,"Good, Bob",R,Budget|Education and the Workforce,https://good.house.gov
+411,413,Virginia,6th,"Cline, Ben",R,Appropriations|Budget|Judiciary|Select Comm on the Strategic Competition US and China,https://cline.house.gov
+412,414,Virginia,7th,"Spanberger, Abigail",D,Agriculture|Intelligence,https://spanberger.house.gov
+413,415,Virginia,8th,"Beyer, Donald",D,Ways and Means,https://beyer.house.gov
+414,416,Virginia,9th,"Griffith, H.",R,House Administration|Energy and Commerce,https://morgangriffith.house.gov/
+415,417,Virginia,10th,"Wexton, Jennifer",D,Appropriations|Budget,https://wexton.house.gov/
+416,418,Virginia,11th,"Connolly, Gerald",D,Foreign Affairs|Select Subcommittee on the Weaponization of the Fed Govt|Oversight and Accountability,https://connolly.house.gov/
+417,419,Virgin Islands,Delegate,"Plaskett, Stacey",D,Select Subcommittee on the Weaponization of the Fed Govt|Intelligence,https://plaskett.house.gov/
+418,420,Washington,1st,"DelBene, Suzan",D,Ways and Means,https://delbene.house.gov
+419,421,Washington,2nd,"Larsen, Rick",D,Transportation and Infrastructure,https://larsen.house.gov
+420,422,Washington,3rd,"Perez, Marie",D,Agriculture|Small Business,https://gluesenkampperez.house.gov
+421,423,Washington,4th,"Newhouse, Dan",R,Appropriations|Select Comm on the Strategic Competition US and China,https://newhouse.house.gov
+422,424,Washington,5th,"Rodgers, Cathy",R,Energy and Commerce,https://mcmorris.house.gov/
+423,425,Washington,6th,"Kilmer, Derek",D,Appropriations|House Administration,https://kilmer.house.gov
+424,426,Washington,7th,"Jayapal, Pramila",D,Education and the Workforce|Judiciary,https://jayapal.house.gov
+425,427,Washington,8th,"Schrier, Kim",D,Energy and Commerce,https://schrier.house.gov
+426,428,Washington,9th,"Smith, Adam",D,Armed Services,https://adamsmith.house.gov/
+427,429,Washington,10th,"Strickland, Marilyn",D,Armed Services|Transportation and Infrastructure,https://strickland.house.gov
+428,430,West Virginia,1st,"Miller, Carol",R,Ways and Means,https://miller.house.gov/
+429,431,West Virginia,2nd,"Mooney, Alexander",R,Financial Services,https://mooney.house.gov/
+430,432,Wisconsin,1st,"Steil, Bryan",R,Financial Services|House Administration|Joint Committee of Congress on the Library,https://steil.house.gov
+431,433,Wisconsin,2nd,"Pocan, Mark",D,Appropriations,https://pocan.house.gov
+432,434,Wisconsin,3rd,"Van Orden, Derrick",R,Agriculture|Transportation and Infrastructure|Veterans' Affairs,https://vanorden.house.gov
+433,435,Wisconsin,4th,"Moore, Gwen",D,Ways and Means,https://gwenmoore.house.gov
+434,436,Wisconsin,5th,"Fitzgerald, Scott",R,Financial Services|Judiciary,https://fitzgerald.house.gov
+435,437,Wisconsin,6th,"Grothman, Glenn",R,Budget|Education and the Workforce|Oversight and Accountability,https://grothman.house.gov
+436,438,Wisconsin,7th,"Tiffany, Thomas",R,Natural Resources|Judiciary,https://tiffany.house.gov/
+437,440,Wyoming,At Large,"Hageman, Harriet",R,Select Subcommittee on the Weaponization of the Fed Govt|Natural Resources|Judiciary,https://hageman.house.gov
