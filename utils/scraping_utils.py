@@ -19,7 +19,7 @@ def parrarelize_processes(function, args_list, n_executors=5):
             yield (id, future.result())
             del future_to_id[future]
 
-def parrarelize_threads(function, args_list, n_executors=100):
+def parrarelize_threads(function, args_list, n_executors=200):
     assert n_executors < 300
     with concurrent.futures.ThreadPoolExecutor(max_workers=min(n_executors, len(args_list))) as executor:
         future_to_id = {executor.submit(function, *args): id for id, args in enumerate(args_list)}

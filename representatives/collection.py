@@ -12,6 +12,10 @@ from representatives.moylan import *
 from representatives.bost import *
 from representatives.mrvan import *
 from representatives.millermeeks import *
+from representatives.davids import *
+from representatives.mann import *
+from representatives.comer import *
+from representatives.scalise import *
 
 extraction_functions = {
     'https://sewell.house.gov/': 
@@ -89,4 +93,24 @@ extraction_functions['https://millermeeks.house.gov/'] = {
             'extract_issues': millermeeks_extract_issues,
             'extract_article_links': millermeeks_extract_article_links,
             'extract_article': millermeeks_extract_article
+        }
+extraction_functions['https://davids.house.gov/'] = {
+            'extract_issues': davids_extract_issues,
+            'extract_article_links': davids_extract_article_links,
+            'extract_article': davids_extract_article
+        }
+extraction_functions['https://mann.house.gov'] = {
+            'extract_issues': mann_extract_issues,
+            'extract_article_links': mann_extract_article_links,
+            'extract_article': mann_extract_article
+        }
+extraction_functions['https://comer.house.gov/'] = {
+            'extract_issues': comer_extract_issues,
+            'extract_article_links': comer_extract_article_links,
+            'extract_article': comer_extract_article
+        }
+extraction_functions['https://scalise.house.gov/'] = {
+            'extract_issues': scalise_extract_issues,
+            'extract_article_links': scalise_extract_article_links,
+            'extract_article': scalise_extract_article
         }
