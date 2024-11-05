@@ -73,3 +73,5 @@ Gaetz, Matt                    83
 ```
 
 ![img](charts/articles_per_issue.png)
+
+## Exploratory data analysis
