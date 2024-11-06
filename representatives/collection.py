@@ -26,6 +26,7 @@ from representatives.flood import *
 from representatives.amodei import *
 from representatives.pappas import *
 from representatives.norcross import *
+from representatives.mace import *
 
 extraction_functions = {
     'https://sewell.house.gov/': 
@@ -183,4 +184,9 @@ extraction_functions['https://norcross.house.gov'] = {
             'extract_issues': norcross_extract_issues,
             'extract_article_links': norcross_extract_article_links,
             'extract_article': norcross_extract_article
+        }
+extraction_functions['https://mace.house.gov'] = {
+            'extract_issues': mace_extract_issues,
+            'extract_article_links': mace_extract_article_links,
+            'extract_article': mace_extract_article
         }
