@@ -16,6 +16,16 @@ from representatives.davids import *
 from representatives.mann import *
 from representatives.comer import *
 from representatives.scalise import *
+from representatives.ruppersberger import *
+from representatives.harris import *
+from representatives.scholten import *
+from representatives.craig import *
+from representatives.wagner import *
+from representatives.zinke import *
+from representatives.flood import *
+from representatives.amodei import *
+from representatives.pappas import *
+from representatives.norcross import *
 
 extraction_functions = {
     'https://sewell.house.gov/': 
@@ -113,4 +123,64 @@ extraction_functions['https://scalise.house.gov/'] = {
             'extract_issues': scalise_extract_issues,
             'extract_article_links': scalise_extract_article_links,
             'extract_article': scalise_extract_article
+        }
+extraction_functions['https://ruppersberger.house.gov'] = {
+            'extract_issues': ruppersberger_extract_issues,
+            'extract_article_links': ruppersberger_extract_article_links,
+            'extract_article': ruppersberger_extract_article
+        }
+extraction_functions['https://harris.house.gov/'] = {
+            'extract_issues': harris_extract_issues,
+            'extract_article_links': harris_extract_article_links,
+            'extract_article': harris_extract_article
+        }
+extraction_functions['https://scholten.house.gov'] = {
+            'extract_issues': scholten_extract_issues,
+            'extract_article_links': scholten_extract_article_links,
+            'extract_article': scholten_extract_article
+        }
+extraction_functions['https://craig.house.gov'] = {
+            'extract_issues': craig_extract_issues,
+            'extract_article_links': craig_extract_article_links,
+            'extract_article': craig_extract_article
+        }
+# extraction_functions['https://finstad.house.gov/'] = { no artivcles :c
+#             'extract_issues': finstad_extract_issues,
+#             'extract_article_links': finstad_extract_article_links,
+#             'extract_article': finstad_extract_article
+#         }
+# extraction_functions['https://benniethompson.house.gov/'] = {no artivcles :c
+#             'extract_issues': benniethompson_extract_issues,
+#             'extract_article_links': benniethompson_extract_article_links,
+#             'extract_article': benniethompson_extract_article
+#         }
+extraction_functions['https://wagner.house.gov'] = {
+            'extract_issues': wagner_extract_issues,
+            'extract_article_links': wagner_extract_article_links,
+            'extract_article': wagner_extract_article
+        }
+extraction_functions['https://zinke.house.gov'] = {
+            'extract_issues': zinke_extract_issues,
+            'extract_article_links': zinke_extract_article_links,
+            'extract_article': zinke_extract_article
+        }
+extraction_functions['https://flood.house.gov/'] = {
+            'extract_issues': flood_extract_issues,
+            'extract_article_links': flood_extract_article_links,
+            'extract_article': flood_extract_article
+        }
+extraction_functions['https://amodei.house.gov'] = {
+            'extract_issues': amodei_extract_issues,
+            'extract_article_links': amodei_extract_article_links,
+            'extract_article': amodei_extract_article
+        }
+extraction_functions['https://pappas.house.gov'] = {
+            'extract_issues': pappas_extract_issues,
+            'extract_article_links': pappas_extract_article_links,
+            'extract_article': pappas_extract_article
+        }
+extraction_functions['https://norcross.house.gov'] = {
+            'extract_issues': norcross_extract_issues,
+            'extract_article_links': norcross_extract_article_links,
+            'extract_article': norcross_extract_article
         }
