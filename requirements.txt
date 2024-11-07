@@ -5,3 +5,7 @@ lxml
 BeautifulSoup4
 requests
 ipykernel
+seaborn
+holoviews
+nltk
+sentence-transformers
