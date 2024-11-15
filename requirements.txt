@@ -1,6 +1,6 @@
 pandas
 matplotlib
-numpy
+numpy==1.26.3
 lxml
 BeautifulSoup4
 requests
