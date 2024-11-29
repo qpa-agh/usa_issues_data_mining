@@ -145,12 +145,12 @@ extraction_functions['https://craig.house.gov'] = {
             'extract_article_links': craig_extract_article_links,
             'extract_article': craig_extract_article
         }
-# extraction_functions['https://finstad.house.gov/'] = { no artivcles :c
+# extraction_functions['https://finstad.house.gov/'] = { no articles :c
 #             'extract_issues': finstad_extract_issues,
 #             'extract_article_links': finstad_extract_article_links,
 #             'extract_article': finstad_extract_article
 #         }
-# extraction_functions['https://benniethompson.house.gov/'] = {no artivcles :c
+# extraction_functions['https://benniethompson.house.gov/'] = {no articles :c
 #             'extract_issues': benniethompson_extract_issues,
 #             'extract_article_links': benniethompson_extract_article_links,
 #             'extract_article': benniethompson_extract_article
