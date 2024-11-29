@@ -1,4 +1,4 @@
-topic_classification/checkpoint.pt
+**/checkpoint.pt
 topic_classification/word2vec_classification/models/**
 key_phrase_extraction/frames
 
