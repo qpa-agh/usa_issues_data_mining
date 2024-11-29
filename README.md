@@ -1,23 +1,24 @@
-# usa_issues_data_mining
+# Congressional Articles Mining
+
+## Project Overview 
+This project employs data mining and machine learning techniques to analyze textual data produced
+by U.S. Congress members, offering insights into political communication trends. By collecting a
+comprehensive dataset of articles and statements from various U.S. Congressmen and Congresswomen,
+we aim to explore key political patterns and their underlying motivations.
 
 ## Data
-### Articles
-### Representatives
-All representatives from official house webpage: https://www.house.gov/
 
-Fields:
-- id
-- state
-- district
-- name
-- party
-- office_room
-- phone
-- committee
-- page_link
+A list of all United States Representatives was compiled from the official House website: Directory of Representatives (https://www.house.gov/). This data includes each representative’s full name, district, state, committee assignments, party affiliation, and a link to their individual webpage. Many of these individual webpages contain a dedicated ”Issues” subpage where representatives outline the topics they address in their
+published articles.
 
-### Chosen Representatives
-Representatives chosen for analysis, 86 in total.
+![Articles per issue](./charts/articles_per_issue.png)
+
+![Topics](./charts/topics_general.png)
+
+## Keyphrases over time
+
+![Keyphrase occurence](./charts/keyphrase_occurrences.png)
+
 
 ## How to run
 ```
