@@ -9,3 +9,4 @@ seaborn
 holoviews
 nltk
 sentence-transformers
+bar_chart_racek
