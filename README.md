@@ -1,5 +1,8 @@
 # Congressional Articles Mining
 
+## Overview
+Look at report.pdf and presentation.pdf files for details of this project.
+
 ## Project Overview 
 This project employs data mining and machine learning techniques to analyze textual data produced
 by U.S. Congress members, offering insights into political communication trends. By collecting a
